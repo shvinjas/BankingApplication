@@ -129,9 +129,9 @@ BankAccount(String cname,int cid)
 			}	
 		}
 		while(option != 'E');
-		{
+		
 			System.out.println("Thanks for using our services");
-		}
+		
 		
 		
 	}
